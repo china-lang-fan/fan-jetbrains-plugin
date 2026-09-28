@@ -1,14 +1,19 @@
-# fan-jebrains-plugin
+# 凡语言 JetBrains 插件
 
-fan 语言的 JetBrains IDE 插件（IntelliJ Platform）。
+凡语言的 JetBrains IDE 插件，基于 IntelliJ Platform。
 
-计划支持：
+## 计划功能
 
-- 语法高亮
-- 关键字补全
-- 括号/引号匹配
+- 中文关键字和符号运算符高亮
+- 关键字、函数名和模型名补全
+- 括号与引号匹配
 - 代码折叠
 - 注释切换
-- 运行 fan 脚本
+- 运行凡语言脚本
 
-开发中。
+## 当前状态
+
+开发中。VS Code 插件和官方文档可先参考：
+
+- <https://github.com/china-lan-fan/fan-code-plugin>
+- <https://china-lan-fan.github.io/>
