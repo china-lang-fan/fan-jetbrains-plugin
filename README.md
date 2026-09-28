@@ -15,5 +15,5 @@
 
 开发中。VS Code 插件和官方文档可先参考：
 
-- <https://github.com/china-lan-fan/fan-code-plugin>
-- <https://china-lan-fan.github.io/>
+- <https://github.com/china-lang-fan/fan-code-plugin>
+- <https://china-lang-fan.github.io/>
